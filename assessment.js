@@ -92,6 +92,7 @@ const answer = [
   '###userName###のいいところは優しさです。###userName###の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。'  
 ];
 
+
 /**
  * 名前の文字列を渡すと診断結果を返す関数
  * @param{string} userName ユーザの名前
@@ -164,4 +165,5 @@ function test() {
   console.log('同じ名前なら、同じ結果を出力することのテスト終了')
 }
 //test();
+
 
